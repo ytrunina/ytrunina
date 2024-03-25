@@ -1,9 +1,9 @@
 ### Hi there! Welcome to my GitHub profile!  👋
 
-I am Yelena, a Senior Computer Science major at FSU and an experienced QA Analyst.
+I am Yelena Trunina, a Senior Computer Science major at FSU and an experienced QA Analyst.
 
 - 🔭 I’m currently making a MERN stack ecommerce app.
-- 🌱 I’m delving deeper into full stack development, diving into the world of cybersecurity, and exploring Operating Systems concepts in my class!
+- 🌱 I’m delving deeper into full stack development, diving into the world of cyber security, and exploring Operating Systems concepts in my class!
 - 💬 Ask me about anything related to QA, software engineering, or aerial photography and videography!
 
 Let's Collaborate!
